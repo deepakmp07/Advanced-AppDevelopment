@@ -1,0 +1,12 @@
+h1{
+   background-color: blue;
+   padding: 5px;
+   margin: 2px;
+}
+.not-flex{
+   display:block;
+}
+div{
+  display: flex;
+  flex-wrap: wrap;
+}
