@@ -1,0 +1,30 @@
+.accountdetails{
+    height: 768px;
+    width: 1120px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    /* margin:50px; */
+    
+    /* background-color: blue; */
+    float:right;
+}
+.accountdetails h1{
+    padding:20px;
+    display: flex;
+
+}
+
+.details img{
+   border-radius: 40px;
+}
+
+.details{
+    /* padding: 20px;
+    height:200px; */
+    /* height: 30px; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

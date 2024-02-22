@@ -1,0 +1,25 @@
+.box{
+    display: flex;
+    /* margin-bottom: 30px; */
+    padding-left:0px;
+    padding-top: 20px;
+}
+.first-box{
+    height:50vh;
+    display: flex;
+    width: 830px;
+    background-color: rgb(71, 66, 66);
+}
+.first-box img{
+  border: 10px solid rgb(41, 39, 39);
+}
+
+.firstbox .content{
+   color:red;
+}
+
+.second-box{
+    height:50vh;
+    width:320px;
+    background-color: green;
+}

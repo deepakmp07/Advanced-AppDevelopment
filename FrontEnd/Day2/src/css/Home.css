@@ -1,0 +1,36 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* justify-content: flex-end; */
+    background-color: black;
+    padding: 20px 15px;
+  }
+  
+  li {
+    /* height: max-content; */
+    float: right;
+    color: white;
+  }
+
+  li p{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 25px;
+    text-decoration: none;
+  }
+
+  li p:hover{
+    background-color: aqua;
+  }
+
+  .boat-image{
+    background-color: azure;
+    height: 500px;
+  }
+
+  .running-images{
+     display: flex;
+  }
