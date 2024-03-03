@@ -1,0 +1,26 @@
+.title {
+    color: #2c3e50; /* Title color */
+    font-size: 24px; /* Title font size */
+    margin-bottom: 20px; /* Space below title */
+  }
+  
+  .customer-list {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .customer-item {
+    background-color: #f0f0f0; /* Background color for each customer item */
+    padding: 10px; /* Padding around each customer item */
+    margin-bottom: 10px; /* Space between each customer item */
+  }
+  
+  .info {
+    color: #34495e; /* Text color for customer information */
+  }
+  
+  .info span {
+    display: block; /* Display each information on a new line */
+    margin-bottom: 5px; /* Space between each information */
+  }
+  
