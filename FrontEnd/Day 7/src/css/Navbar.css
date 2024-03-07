@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .sidebar-toggle {
+    cursor: pointer;
+  }
+  
+  .sidebar {
+    width: 200px; /* Adjust the width as needed */
+    height: 100vh; /* Make sidebar full height */
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #333; /* Sidebar background color */
+    color: white;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(-100%);
+    z-index: 1000; /* Ensure sidebar is above other content */
+  }
+  
+  .sidebar.show {
+    transform: translateX(0);
+  }
+  

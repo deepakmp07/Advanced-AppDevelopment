@@ -1,0 +1,186 @@
+.form h2{
+    text-align: center;
+    margin-top: 10px;
+    font-family: allura;
+  }
+  
+  .form{
+    border: 1px solid ;
+    width: 120%;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-input{
+    padding:10px 30px;
+    margin-top: 10px;
+    width: 78%;
+    margin-left: 20px;
+  }
+  
+  .form-label{
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  
+  
+  .button1{
+  margin-top: 10px;
+    width: 20%;
+    padding: 5px 0px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+  }
+  .c-t{
+    display: flex;
+    flex-direction: row;
+  }
+  .f-term{
+    margin-top: 15px;
+    margin-left: 5px;
+  }
+  .f-checkbox{
+    margin-left: 90px;
+  }
+  .content-b1{
+    display: flex;
+    flex-direction: row;
+  }
+  .content-b1{
+    margin-top: 40px;
+  }
+  .content-b2{
+    display: flex;
+    flex-direction: row;
+  }
+  .content-b2{
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+  
+  .img1{
+    width: 25%;
+    margin-left: 60px;
+    box-shadow: 4px 4px 20px 2px rgb(63, 61, 61);
+  }
+  
+  .img2{
+    width: 25%;
+    margin-left: 60px;
+    box-shadow: 4px 4px 20px 2px rgb(63, 61, 61);
+  }
+  .img3{
+    width: 25%;
+    height: 36vh;
+    margin-left: 180px;
+    box-shadow: 4px 4px 20px 2px rgb(63, 61, 61);
+  }
+  .img4{
+    width: 25%;
+    height: 36vh;
+    margin-left: 60px;
+    box-shadow: 4px 4px 20px 2px rgb(63, 61, 61);
+  }
+  .img11{
+    width: 25%;
+    box-shadow: 4px 4px 20px 2px rgb(63, 61, 61);
+  }
+  .img22{
+    width: 25%;
+    box-shadow: 4px 4px 20px 2px rgb(63, 61, 61);
+  }
+  .room{
+    margin-left: 120px;
+    margin-top: 20px;
+  }
+  .room h2{
+    margin-bottom: 30px;
+    font-size: 180%;
+    font-family: allura;
+  }
+  .room p{
+    font-size: 120%;
+    padding-bottom: 30px;
+  }
+  .room1{
+    margin-left: 180px;
+    margin-top: 20px;
+  }
+  .room1 h2{
+    margin-bottom: 30px;
+    font-size: 180%;
+    font-family: allura;
+  }
+  .room1 p{
+    font-size: 120%;
+    padding-bottom: 30px;
+  }
+  .j-h1{
+    text-align: center;
+    margin-top: 20px;
+    font-family: allura;
+    margin-bottom: 20px;
+  }
+  .r-p p{
+    font-size: 110%;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  
+  .bf1{
+    margin-bottom: 10px;
+  }
+  .others-c{
+    display: flex;
+    flex-direction: row;
+  
+  }
+  .others{
+    display: flex;
+    flex-direction: row;
+  }
+  .block-1{
+    width: 58%;
+  }
+  .os{
+    margin: 0px 0px 0px 70px;
+  }
+  .os h2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .os p{
+    font-size: 110%;
+    margin-bottom: 10px;
+  }
+  .ff{
+    margin: 0px 0px 0px 60px;
+  }
+  .ff h2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .ff p{
+    font-size: 110%;
+    margin-bottom: 10px;
+  }
+  .others-img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .img11{
+    margin-left: 60px;
+    height: 45vh;
+    width: 60%;
+  }
+  .img22{
+    margin-left: 50px;
+    height: 45vh;
+    width: 27%;
+  }
+  .booking-form{
+    margin-left: 50px;
+    margin-top: 10px;
+  }
